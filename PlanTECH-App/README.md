@@ -22,7 +22,7 @@ This project was generated with [angular-cli](https://github.com/angular/angular
 
 # Credentials
 
--Korisnici:
+- Users -
  
  1) Username: 'stefan1235' / Password: 'stefan1235',
  
@@ -32,7 +32,7 @@ This project was generated with [angular-cli](https://github.com/angular/angular
 	
 4) Username: 'testr' / Password: 'krstic',
 	
--Admini:
+- Admins -
 	
 1) Username: 'testime1' / Password: 'testime1',
  
@@ -40,6 +40,6 @@ This project was generated with [angular-cli](https://github.com/angular/angular
 	
 3) Username: 'tester123' / Password: 'tester123',
  
--Agronom:
+- Agronomist -
 	
 1) Username: 'acc2123123' / Password: 'Test1235!',
